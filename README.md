@@ -36,7 +36,14 @@ This project is a **Full-Stack Student Management System** built with a modular 
 | **Environment** | `Apache` | Local Hosting Environment (e.g., XAMPP, WAMP) |
 
 ---
+### 👤 Author
+**Youssef Alkamashany**
+* 🚀 **Aspiring MLOps & AI Data Engineer**.
+* 💼 **Team Leader** | Digital Egypt Pioneers Initiative (DEPI).
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alkamashany-18261132b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Alkamashany)
+----------
 ### 📂 Project Structure
 ```text
 ├── api/                # Core Backend Logic (API Layer)
