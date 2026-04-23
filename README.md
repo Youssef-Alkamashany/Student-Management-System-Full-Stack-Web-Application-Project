@@ -38,7 +38,7 @@ This project is a **Full-Stack Student Management System** built with a modular 
 ---
 ### 👤 Author
 **Youssef Alkamashany**
-* 🚀 **Aspiring MLOps & AI Data Engineer**.
+* 🚀 **Aspiring MLOps/LLMOps & AI Data Engineer**.
 * 💼 **Team Leader** | Digital Egypt Pioneers Initiative (DEPI).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alkamashany-18261132b)
